@@ -1,4 +1,4 @@
-### 👋 Hola, soy Carlos Alberto
+### 👋 Hola, soy Carlos de Jesús Alberto Lira
 
 Soy **Desarrollador Full Stack** con experiencia en **JavaScript, React, Node.js, TypeScript y WordPress**.  
 Me especializo en construir interfaces claras, rendimiento sólido y aplicaciones que escalan de forma segura.
@@ -25,7 +25,11 @@ He contribuido en proyectos reales de impacto, incluyendo funcionalidades para *
 - He creado cursos y contenido educativo que ha ayudado a miles de estudiantes.
 
 ---
+## 📌 Portafolio
 
+Portafolio: https://portfolio-carlos-lira.vercel.app/
+
+---
 ## 📌 Proyectos Destacados
 
 - **Mi Cuenta Infonavit** – Contribución en desarrollo y pruebas para plataforma usada por 16M+ usuarios.  
