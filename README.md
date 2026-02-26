@@ -1,47 +1,49 @@
-### 👋 Hola, soy Carlos de Jesús Alberto Lira
+### 👋 Hi, I'm Carlos de Jesús Alberto Lira
 
-Soy **Desarrollador Full Stack** con experiencia en **JavaScript, React, Node.js, TypeScript y WordPress**.  
-Me especializo en construir interfaces claras, rendimiento sólido y aplicaciones que escalan de forma segura.
+Frontend Engineer with 3+ years of experience building and maintaining production-grade web applications using **React, Next.js, and TypeScript.**
 
-He contribuido en proyectos reales de impacto, incluyendo funcionalidades para **plataformas usadas por millones de usuarios** en México, así como múltiples proyectos web desarrollados de manera independiente.
+I have contributed to large-scale platforms such as **“Mi Cuenta Infonavit”**, serving over **16 million users**, where I worked on feature development, performance optimization, and production issue resolution.
 
----
-
-## 🚀 Tecnologías y herramientas
-
-**Frontend:** React, TypeScript, JavaScript (ES6+), HTML, CSS, Material UI  
-**Backend:** Node.js, Express.js, REST APIs  
-**Bases de datos:** MySQL  
-**Herramientas:** Git, Jira, Postman, WordPress, Elementor  
-**Metodologías:** Agile / Scrum  
+I focus on scalable component architecture, clean code practices, and reliable frontend systems designed for real-world usage.
 
 ---
 
-## 🧩 Sobre mí
+## 🚀 Technical Stack
 
-- Autodidacta y orientado a resolver problemas reales.  
-- Experiencia desarrollando módulos productivos para plataformas de gran escala.  
-- Interés en buenas prácticas, accesibilidad y código mantenible.  
-- He creado cursos y contenido educativo que ha ayudado a miles de estudiantes.
-
----
-## 📌 Portafolio
-
-Portafolio: https://portfolio-carlos-lira.vercel.app/
-
----
-## 📌 Proyectos Destacados
-
-- **Mi Cuenta Infonavit** – Contribución en desarrollo y pruebas para plataforma usada por 16M+ usuarios.  
-- **Sitios web profesionales** con WordPress + Elementor (landing pages, blogs y páginas corporativas).  
-- **JavaScript para principiantes (Udemy)** – Curso con cientos de estudiantes activos.  
-- **Automatizaciones y herramientas no-code** con Make, Zapier y APIs.
-
+**Frontend:** React • Next.js • TypeScript • JavaScript (ES6+) • HTML • CSS • Tailwind 
+**Backend:** Node.js • Express • REST APIs
+**Testing & Tools:** Jest • Git • Jira • Postman 
+**Databases:** MySQL  
 ---
 
-## 🔍 Actualmente estoy buscando…
+## 🧩 Professional Approach
 
-Oportunidades en **Frontend**, **Full Stack**, **WordPress** o roles técnicos donde pueda aportar mis habilidades de desarrollo, coordinación, testing y creación de contenido.
+-Experience contributing to production systems at scale
+-Strong understanding of frontend architecture and API integration
+-Focus on performance, maintainability, and structured code
+-Agile team collaboration (Scrum, code reviews)
+-Technical mentoring and educational content creation
+
+---
+## 🌐 Portfolio
+
+https://portfolio-carlos-lira.vercel.app/
+
+---
+## 📌 Featured Work
+
+-Mi Cuenta Infonavit
+Contributed to frontend modules and production support for a platform used by 16M+ users.
+
+-Next.js Projects
+Independent projects demonstrating SSR, modular architecture, and frontend testing setup.
+
+---
+
+## 🔍 Currently Seeking
+
+Frontend Engineer roles (React / Next.js / TypeScript) in teams building scalable digital products.
+Open to remote and international opportunities.
 
 
 
